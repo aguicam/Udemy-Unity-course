@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5_Realm_Rush", "5_Realm_Rush.csproj", "{51501195-6AD1-EA1E-747F-ECE305C0234D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5_Realm_Rush.Editor", "5_Realm_Rush.Editor.csproj", "{966FCD3E-794A-2A35-C7E7-BA932ABA236A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{51501195-6AD1-EA1E-747F-ECE305C0234D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51501195-6AD1-EA1E-747F-ECE305C0234D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51501195-6AD1-EA1E-747F-ECE305C0234D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51501195-6AD1-EA1E-747F-ECE305C0234D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{966FCD3E-794A-2A35-C7E7-BA932ABA236A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{966FCD3E-794A-2A35-C7E7-BA932ABA236A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{966FCD3E-794A-2A35-C7E7-BA932ABA236A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{966FCD3E-794A-2A35-C7E7-BA932ABA236A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
